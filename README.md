@@ -15,7 +15,7 @@ Warmup steps are set 5% of the total number steps with lr peaking to 1e-4 for 1s
 
 ## WordPiece Tokenizer 
 
-The tokenizer is trained on 1500000 most frequent words and vocab size is 15000. 
+The tokenizer is trained on 150000 most frequent words and vocab size is 15000. 
 
 
 
